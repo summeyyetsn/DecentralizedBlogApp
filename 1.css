@@ -1,0 +1,87 @@
+body{
+    overflow-x: hidden;
+}
+.header-div{
+    height: 100px;
+}
+.logo-img{
+    width: 70px;
+    height: 20px;
+    position: relative;
+    top: 7px;
+}
+.logo-div{
+    display: inline-block;
+}
+.input-icons i {
+    position: absolute;
+}
+  
+.input-icons {
+    margin-bottom: 10px;
+    display: inline-block;
+    
+}
+  
+.icon {
+    padding: 10px;
+    min-width: 40px;
+    color: gray;
+}
+  
+.input-field {
+    padding: 10px;
+    text-align: center;
+    border-radius: 30px;
+    border:none;
+    background: rgba(250, 250, 250, 1);
+    width: 200px;
+}
+
+.header-right{
+    display: inline-block;
+   
+}
+.db{
+    display: block;
+}
+.dib{
+    display: inline-block;
+}
+.write-icon{
+    position: relative;
+    top: 6px;
+}
+.notification-icon{
+    position: relative;
+    top: 6px;
+}
+.profil-button{
+    background-color: green;
+    border-radius: 30px;
+    border: none;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    color: white;
+}
+.down-icon{
+    position: relative;
+    top: 5px;
+    margin-left:-2px ;
+    color: gray;
+}
+.header-right{
+    float: right;
+}
+.href-design{
+    text-decoration: none;
+    color: black;
+
+}
+.div-write{
+    margin-right: 20px;
+}
+.div-notification{
+    margin-right: 20px;
+}
